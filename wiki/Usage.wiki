@@ -8,7 +8,7 @@ shcov will output data in `/tmp/shcov`, so if you are happy with this,
 just run your script with shcov first:
 
 {{{
-   shcov your-script.sh args...
+shcov your-script.sh args...
 }}}
 
 If you run your script multiple times, shcov will just update the
@@ -21,7 +21,7 @@ is invoked with the data directory and an output directory as
 argument:
 
 {{{
-   shlcov /tmp/shcov html
+shlcov /tmp/shcov html
 }}}
 
 this will generate output in the html directory in your working

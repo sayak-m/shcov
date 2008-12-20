@@ -1,6 +1,6 @@
 #summary How to use shcov
 
-This page contains some short usage instructions for *shcov* and *shlcov*.
+This page contains some short usage instructions for *shcov* and *shlcov*. Invoke the programs  with `--help` or read the man-pages for additional options.
 
 === Generating data ===
 
